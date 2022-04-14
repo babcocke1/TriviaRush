@@ -1,0 +1,3 @@
+[submodule "triviaRush-client"]
+	path = triviaRush-client
+	url = git@github.com:babcocke1/triviaRush-client.git
