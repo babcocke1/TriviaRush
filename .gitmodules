@@ -1,3 +1,6 @@
 [submodule "triviaRush-client"]
 	path = triviaRush-client
 	url = git@github.com:babcocke1/triviaRush-client.git
+[submodule "TriviaRush-server"]
+	path = TriviaRush-server
+	url = git@github.com:babcocke1/TriviaRush-server.git
